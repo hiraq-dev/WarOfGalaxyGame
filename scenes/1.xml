@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="3" extheight="480" extwidth="800" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="416" id="1" name="main menu" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="736">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="animationbg" opacity="100" order="1" rid="81" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="1" id="12" name="start button 1" sx="1.0" sy="1.0" x="246" y="19" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="1" id="12" name="start button 2" sx="1.0" sy="1.0" x="246" y="17" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="1" id="14" name="game logo 3" sx="1.0" sy="1.0" x="411" y="132" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="60" name="instruction button 5" sx="1.0" sy="1.0" x="365" y="172" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="1" id="45" name="exit button 6" sx="0.7419355" sy="0.7586207" x="13" y="352" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="3" id="92" name="mutebuttonacctor 7" sx="1.0" sy="1.0" x="19" y="11" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="1" id="97" name="ollie laugh front 8" sx="1.0" sy="1.0" x="219" y="95" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="39">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="true"/>
+            <prop id="3" list="0" val="80"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>

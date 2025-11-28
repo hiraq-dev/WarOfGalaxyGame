@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="28" extheight="480" extwidth="800" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="416" id="3" name="Gamover" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="736">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="2" locked="true" name="game over bg" opacity="100" order="1" rid="38" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="3" locked="false" name="Layer 3" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="32" id="0" name="Region 0" pts="4,220.0,0.0,220.0,32.0,0.0,32.0,0.0,0.0" r="64" type="box" w="220" x="278" y="256"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="1" id="45" name="exit button 1" sx="1.0" sy="1.0" x="251" y="321" z="3"/>
+        <actor a="0.0" aid="2" c="false" group="1" id="43" name="replaybutton 2" sx="1.0" sy="1.0" x="458" y="319" z="3"/>
+        <actor a="0.0" aid="3" c="false" group="1" id="52" name="whitebox 3" sx="1.0" sy="1.0" x="287" y="238" z="3"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="39">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="true"/>
+            <prop id="3" list="0" val="80"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>

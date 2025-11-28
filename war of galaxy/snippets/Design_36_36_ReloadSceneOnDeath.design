@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-actor-create-kill comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="1" id="-1">
+                        <scene-change-through comment="false" x="37" y="80">
+                            <scene eid="3" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0.3"/>
+                        </scene-change-through>
+                    </group>
+                    <eq comment="false" id="0" x="0" y="0">
+                        <custom-25 comment="false" id="0" x="0" y="0">
+                            <ACTOR eid="this" id="0"/>
+                        </custom-25>
+                        <int id="1" val="0"/>
+                    </eq>
+                </if>
+                <else comment="false" x="26" y="119">
+                    <group eventID="1" id="-1">
+                        <scene-reload-new comment="false" x="37" y="139">
+                            <int id="0" val="0"/>
+                            <get-val-36-1 comment="false" id="1" x="0" y="0"/>
+                            <int id="2" val="0"/>
+                            <get-val-36-2 comment="false" id="3" x="0" y="0"/>
+                        </scene-reload-new>
+                    </group>
+                </else>
+            </group>
+            <int id="0" val="1"/>
+            <ACTOR eid="this" id="1"/>
+        </event-actor-create-kill>
+    </group>
+    <group eventID="1" id="2">
+        <if comment="false" x="50" y="330">
+            <group eventID="1" id="-1"/>
+            <not comment="false" id="0" x="0" y="0">
+                <is-transitioning comment="false" id="0" x="0" y="0"/>
+            </not>
+        </if>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

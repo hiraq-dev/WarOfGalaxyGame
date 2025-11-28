@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="-1" id="-1">
+                <moveToBy comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="16"/>
+                    <int id="3" val="0"/>
+                    <int id="4" val="0.7"/>
+                    <int id="5" val="0"/>
+                </moveToBy>
+                <set-val-82-1 comment="false" x="26" y="67">
+                    <int id="0" val="1"/>
+                </set-val-82-1>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="1">
+        <eq comment="false" x="626" y="535">
+            <int id="0" val=""/>
+            <int id="1" val="2"/>
+        </eq>
+        <eq comment="false" x="626" y="554">
+            <int id="0" val=""/>
+            <int id="1" val=""/>
+        </eq>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

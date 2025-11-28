@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="56" extheight="480" extwidth="800" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="416" id="5" name="instruction scene" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="736">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="instructbg" opacity="100" order="1" rid="64" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="2" c="false" group="5" id="10" name="fire 2" sx="11.272727" sy="0.2" x="369" y="40" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="1" id="66" name="up key 4" sx="0.93939394" sy="0.93939394" x="125" y="127" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="1" id="68" name="down key 5" sx="0.93939394" sy="0.90909094" x="445" y="127" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="1" id="70" name="spacekey 6" sx="1.0" sy="1.0" x="128" y="283" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="1" id="72" name="random 7" sx="0.73913044" sy="0.7411765" x="327" y="225" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="1" id="74" name="random2 8" sx="1.0" sy="1.0" x="183" y="65" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="3" id="76" name="random3 9" sx="1.0" sy="1.0" x="556" y="64" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="0" id="78" name="backbutton 10" sx="1.0" sy="1.0" x="27" y="18" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="3" id="60" name="instruction button 11" sx="1.0" sy="1.0" x="267" y="15" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="39">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="true"/>
+            <prop id="3" list="0" val="80"/>
+        </s>
+    </snippets>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>
