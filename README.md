@@ -2,8 +2,11 @@
 
 A 2D space shooting game developed in Unity where you control a spaceship, destroy asteroids, battle enemy ships, and survive in the endless expanse of space.
 
-🎮Click the image to watch the complete gameplay video on Google Drive
-<img src="Icon-120.png" alt="[The mascot on a hoverboard](https://drive.google.com/file/d/1mSHrt_eSwfLOBwtVUP4urjWlc6xa1QF_/view?usp=drive_link)" />
+🎮 Click the image below to watch the complete gameplay video on Google Drive</p>
+<a href="https://drive.google.com/file/d/1hRCEqglyK667mazIrsrAbaCPIQeXv7Oo/view?usp=drive_link" target="_blank">
+    <img src="Icon-120.png" alt="War of Galaxy Gameplay" />
+</a>
+<p>
 
 ✨ Features
 🚀 Core Gameplay
