@@ -3,10 +3,9 @@
 A 2D space shooting game developed in Unity where you control a spaceship, destroy asteroids, battle enemy ships, and survive in the endless expanse of space.
 
 🎮 Gameplay Video
-https://drive.google.com/file/d/1mSHrt_eSwfLOBwtVUP4urjWlc6xa1QF_/view?usp=drive_link
 
-Click to watch the complete gameplay video on Google Drive
-<img src="assets/Icon-256.png" alt="The mascot on a hoverboard" width="200"/>
+Click the image to watch the complete gameplay video on Google Drive
+<img src="Icon-120.png" alt="[The mascot on a hoverboard](https://drive.google.com/file/d/1mSHrt_eSwfLOBwtVUP4urjWlc6xa1QF_/view?usp=drive_link)" />
 
 ✨ Features
 🚀 Core Gameplay
